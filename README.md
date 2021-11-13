@@ -6,3 +6,6 @@ while the application is offline. This App keeps track of expenses entered by th
 the internet connection is very poor or goes offline, the user may still use the app to enter expenses. The 
 files needed for the app to function are stored in the local cache. When the connection is restored, all entries
 made are automatically saved, and the user is notified that the data entered while offline has been added.
+
+### Application Screenshot
+![Homepage](./budget-tracker.JPG)
